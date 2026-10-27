@@ -1,0 +1,9 @@
+name "galactic_layers_POC"
+about "A proof of concept plugin to test "layers" to the milky way galaxy map."
+version 1.0.0
+authors
+	Arachi
+tags
+	systems
+dependencies
+	"game version" 0.11.2
