@@ -1,0 +1,25 @@
+
+system "Sagittarius A*"
+	pos 112 22
+	government Uninhabited
+	attributes "black hole" "notable star"
+	belt 1500
+	haze _menu/haze-full
+	hazard "Black Hole Accretion Disk" 1
+	hazard "Black Hole Event Horizon" 1
+	hazard "Black Hole Gravity" 1
+	object
+		sprite star/black-hole-core
+		period 1
+	object
+		sprite star/black-hole
+		period 1
+	object "Intergalactic Wormhole A-B"
+		sprite planet/wormhole
+		distance 5000
+	object "Intergalactic Wormhole A-C"
+		sprite planet/wormhole
+		distance 7000
+	object "Intergalactic Wormhole A-D"
+		sprite planet/wormhole
+		distance 9000

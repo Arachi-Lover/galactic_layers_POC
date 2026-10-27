@@ -1,0 +1,48 @@
+
+wormhole "Intergalactic Wormhole A-B"
+	"display name" "Intergalactic Wormhole (A-B)"
+	link "Sagittarius A*" "Sagittarius A* "
+	link "Sagittarius A* " "Sagittarius A*"
+
+planet "Intergalactic Wormhole A-B"
+	wormhole "Intergalactic Wormhole A-B"
+
+wormhole "Intergalactic Wormhole A-C"
+	"display name" "Intergalactic Wormhole (A-C)"
+	link "Sagittarius A*" "Sagittarius A*  "
+	link "Sagittarius A*  " "Sagittarius A*"
+
+planet "Intergalactic Wormhole A-C"
+	wormhole "Intergalactic Wormhole A-C"
+
+wormhole "Intergalactic Wormhole A-D"
+	"display name" "Intergalactic Wormhole (A-D)"
+	link "Sagittarius A*" "Sagittarius A*   "
+	link "Sagittarius A*   " "Sagittarius A*"
+
+planet "Intergalactic Wormhole A-D"
+	wormhole "Intergalactic Wormhole A-D"
+
+wormhole "Intergalactic Wormhole B-C"
+	"display name" "Intergalactic Wormhole (B-C)"
+	link "Sagittarius A* " "Sagittarius A*  "
+	link "Sagittarius A*  " "Sagittarius A* "
+
+planet "Intergalactic Wormhole B-C"
+	wormhole "Intergalactic Wormhole B-C"
+
+wormhole "Intergalactic Wormhole B-D"
+	"display name" "Intergalactic Wormhole (B-D)"
+	link "Sagittarius A* " "Sagittarius A*   "
+	link "Sagittarius A*   " "Sagittarius A* "
+
+planet "Intergalactic Wormhole B-D"
+	wormhole "Intergalactic Wormhole B-D"
+
+wormhole "Intergalactic Wormhole C-D"
+	"display name" "Intergalactic Wormhole (C-D)"
+	link "Sagittarius A*  " "Sagittarius A*   "
+	link "Sagittarius A*   " "Sagittarius A*  "
+
+planet "Intergalactic Wormhole C-D"
+	wormhole "Intergalactic Wormhole C-D"
