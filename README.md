@@ -10,6 +10,8 @@ Asteroids, minables, trade and fleets were removed from the copy galaxy. Galaxy 
 
 To access the separate galaxies, head to `Sagittarius A*`, where wormholes link to each of the other galaxies. To map out all of the galaxies at once, land on `"Kalbai"` in Bunrodea space (it is the landable planet closest to `Sagittarius A*`, for ease of testing).
 
+Demonstration video: https://drive.google.com/file/d/1ysa5ff-xhmun3dXafA8m31yGjpNzBcRs/view
+
 #### Arachi's Plugins
 
 [LinearHPScaling](https://github.com/Arachi-Lover/LinearHPScaling)
